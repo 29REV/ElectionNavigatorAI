@@ -1,0 +1,38 @@
+# Node modules (will be installed during build)
+node_modules/
+**/node_modules/
+
+# Environment variables and secrets (injected at runtime via Secret Manager)
+.env
+.env.*
+backend/.env
+backend/firrebaseapikey
+
+# Build outputs (frontend will be built in Docker)
+frontend/dist/
+backend/dist/
+
+# Dev and scratch files
+backend/scratch/
+backend/scripts/
+
+# Git
+.git/
+.gitignore
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Package lock files for docker (will use fresh install)
+# Keep package-lock.json for reproducibility

@@ -1,0 +1,938 @@
+[
+  {
+    "id": "1",
+    "name": "ARIYALUR"
+  },
+  {
+    "id": "2",
+    "name": "JAYANKONDAM"
+  },
+  {
+    "id": "23",
+    "name": "CHENGALPATTU"
+  },
+  {
+    "id": "25",
+    "name": "CHEYYUR (SC)"
+  },
+  {
+    "id": "26",
+    "name": "MADURANTAKAM (SC)"
+  },
+  {
+    "id": "21",
+    "name": "PALLAVARAM"
+  },
+  {
+    "id": "20",
+    "name": "SHOLINGANALLUR"
+  },
+  {
+    "id": "22",
+    "name": "TAMBARAM"
+  },
+  {
+    "id": "24",
+    "name": "THIRUPORUR"
+  },
+  {
+    "id": "14",
+    "name": "ANNA NAGAR"
+  },
+  {
+    "id": "12",
+    "name": "CHEPAUK-THIRUVALLIKENI"
+  },
+  {
+    "id": "10",
+    "name": "DR.RADHAKRISHNAN NAGAR"
+  },
+  {
+    "id": "9",
+    "name": "EGMORE (SC)"
+  },
+  {
+    "id": "11",
+    "name": "HARBOUR"
+  },
+  {
+    "id": "6",
+    "name": "KOLATHUR"
+  },
+  {
+    "id": "19",
+    "name": "MYLAPORE"
+  },
+  {
+    "id": "5",
+    "name": "PERAMBUR"
+  },
+  {
+    "id": "3",
+    "name": "ROYAPURAM"
+  },
+  {
+    "id": "16",
+    "name": "SAIDAPET"
+  },
+  {
+    "id": "8",
+    "name": "THIRU-VI-KA-NAGAR (SC)"
+  },
+  {
+    "id": "18",
+    "name": "THIYAGARAYANAGAR"
+  },
+  {
+    "id": "13",
+    "name": "THOUSAND LIGHTS"
+  },
+  {
+    "id": "4",
+    "name": "VELACHERY"
+  },
+  {
+    "id": "7",
+    "name": "VILLIVAKKAM"
+  },
+  {
+    "id": "15",
+    "name": "VIRUGAMPAKKAM"
+  },
+  {
+    "id": "27",
+    "name": "COIMBATORE (NORTH)"
+  },
+  {
+    "id": "28",
+    "name": "COIMBATORE (SOUTH)"
+  },
+  {
+    "id": "29",
+    "name": "KAVUNDAMPALAYAM"
+  },
+  {
+    "id": "30",
+    "name": "KINATHUKADAVU"
+  },
+  {
+    "id": "31",
+    "name": "METTUPALAYAM"
+  },
+  {
+    "id": "32",
+    "name": "POLLACHI"
+  },
+  {
+    "id": "33",
+    "name": "SINGANALLUR"
+  },
+  {
+    "id": "34",
+    "name": "SULUR"
+  },
+  {
+    "id": "35",
+    "name": "THONDAMUTHUR"
+  },
+  {
+    "id": "36",
+    "name": "VALPARAI (SC)"
+  },
+  {
+    "id": "44",
+    "name": "BHUVANAGIRI"
+  },
+  {
+    "id": "45",
+    "name": "CHIDAMBARAM"
+  },
+  {
+    "id": "42",
+    "name": "CUDDALORE"
+  },
+  {
+    "id": "46",
+    "name": "KATTUMANNARKOIL (SC)"
+  },
+  {
+    "id": "43",
+    "name": "KURINJIPADI"
+  },
+  {
+    "id": "40",
+    "name": "NEYVELI"
+  },
+  {
+    "id": "41",
+    "name": "PANRUTI"
+  },
+  {
+    "id": "38",
+    "name": "TITTAKUDI (SC)"
+  },
+  {
+    "id": "39",
+    "name": "VRIDHACHALAM"
+  },
+  {
+    "id": "49",
+    "name": "DHARMAPURI"
+  },
+  {
+    "id": "51",
+    "name": "HARUR (SC)"
+  },
+  {
+    "id": "47",
+    "name": "PALACODE"
+  },
+  {
+    "id": "50",
+    "name": "PAPPIREDDIPATTI"
+  },
+  {
+    "id": "48",
+    "name": "PENNAGARAM"
+  },
+  {
+    "id": "54",
+    "name": "ATHOOR"
+  },
+  {
+    "id": "57",
+    "name": "DINDIGUL"
+  },
+  {
+    "id": "56",
+    "name": "NATHAM"
+  },
+  {
+    "id": "55",
+    "name": "NILAKKOTTAI (SC)"
+  },
+  {
+    "id": "53",
+    "name": "ODDANCHATRAM"
+  },
+  {
+    "id": "52",
+    "name": "PALANI"
+  },
+  {
+    "id": "58",
+    "name": "VEDASANDUR"
+  },
+  {
+    "id": "64",
+    "name": "ANTHIYUR"
+  },
+  {
+    "id": "63",
+    "name": "BHAVANI"
+  },
+  {
+    "id": "66",
+    "name": "BHAVANISAGAR (SC)"
+  },
+  {
+    "id": "59",
+    "name": "ERODE (EAST)"
+  },
+  {
+    "id": "60",
+    "name": "ERODE (WEST)"
+  },
+  {
+    "id": "65",
+    "name": "GOBICHETTIPALAYAM"
+  },
+  {
+    "id": "61",
+    "name": "MODAKKURICHI"
+  },
+  {
+    "id": "62",
+    "name": "PERUNDURAI"
+  },
+  {
+    "id": "70",
+    "name": "KALLAKURICHI (SC)"
+  },
+  {
+    "id": "68",
+    "name": "RISHIVANDIYAM"
+  },
+  {
+    "id": "69",
+    "name": "SANKARAPURAM"
+  },
+  {
+    "id": "67",
+    "name": "ULUNDURPETTAI"
+  },
+  {
+    "id": "71",
+    "name": "ALANDUR"
+  },
+  {
+    "id": "72",
+    "name": "KANCHEEPURAM"
+  },
+  {
+    "id": "73",
+    "name": "SRIPERUMBUDUR (SC)"
+  },
+  {
+    "id": "74",
+    "name": "UTHIRAMERUR"
+  },
+  {
+    "id": "77",
+    "name": "COLACHAL"
+  },
+  {
+    "id": "75",
+    "name": "KANNIYAKUMARI"
+  },
+  {
+    "id": "80",
+    "name": "KILLIYOOR"
+  },
+  {
+    "id": "76",
+    "name": "NAGERCOIL"
+  },
+  {
+    "id": "78",
+    "name": "PADMANABHAPURAM"
+  },
+  {
+    "id": "79",
+    "name": "VILAVANCODE"
+  },
+  {
+    "id": "81",
+    "name": "ARAVAKURICHI"
+  },
+  {
+    "id": "82",
+    "name": "KARUR"
+  },
+  {
+    "id": "83",
+    "name": "KRISHNARAYAPURAM (SC)"
+  },
+  {
+    "id": "84",
+    "name": "KULITHALAI"
+  },
+  {
+    "id": "86",
+    "name": "BARGUR"
+  },
+  {
+    "id": "89",
+    "name": "HOSUR"
+  },
+  {
+    "id": "87",
+    "name": "KRISHNAGIRI"
+  },
+  {
+    "id": "90",
+    "name": "THALLY"
+  },
+  {
+    "id": "85",
+    "name": "UTHANGARAI (SC)"
+  },
+  {
+    "id": "88",
+    "name": "VEPPANAHALLI"
+  },
+  {
+    "id": "96",
+    "name": "MADURAI CENTRAL"
+  },
+  {
+    "id": "92",
+    "name": "MADURAI EAST"
+  },
+  {
+    "id": "94",
+    "name": "MADURAI NORTH"
+  },
+  {
+    "id": "95",
+    "name": "MADURAI SOUTH"
+  },
+  {
+    "id": "97",
+    "name": "MADURAI WEST"
+  },
+  {
+    "id": "91",
+    "name": "MELUR"
+  },
+  {
+    "id": "93",
+    "name": "SHOLAVANDAN (SC)"
+  },
+  {
+    "id": "99",
+    "name": "THIRUMANGALAM"
+  },
+  {
+    "id": "98",
+    "name": "THIRUPARANKUNDRAM"
+  },
+  {
+    "id": "100",
+    "name": "USILAMPATTI"
+  },
+  {
+    "id": "106",
+    "name": "KILVELUR"
+  },
+  {
+    "id": "103",
+    "name": "MAYILADUTHURAI"
+  },
+  {
+    "id": "105",
+    "name": "NAGAPATTINAM"
+  },
+  {
+    "id": "104",
+    "name": "POOMPUHAR"
+  },
+  {
+    "id": "102",
+    "name": "SIRKAZHI (SC)"
+  },
+  {
+    "id": "107",
+    "name": "VEDHARANYAM"
+  },
+  {
+    "id": "113",
+    "name": "KUMARAPALAYAM"
+  },
+  {
+    "id": "110",
+    "name": "NAMAKKAL"
+  },
+  {
+    "id": "111",
+    "name": "PARAMATHIVELUR"
+  },
+  {
+    "id": "108",
+    "name": "RASIPURAM(SC)"
+  },
+  {
+    "id": "109",
+    "name": "SENTHAMANGALAM(ST)"
+  },
+  {
+    "id": "112",
+    "name": "TIRUCHENGODU"
+  },
+  {
+    "id": "115",
+    "name": "KUNNAM"
+  },
+  {
+    "id": "114",
+    "name": "PERAMBALUR (SC)"
+  },
+  {
+    "id": "120",
+    "name": "ALANGUDI"
+  },
+  {
+    "id": "121",
+    "name": "ARANTHANGI"
+  },
+  {
+    "id": "116",
+    "name": "GANDARVAKOTTAI (SC)"
+  },
+  {
+    "id": "118",
+    "name": "PUDUKKOTTAI"
+  },
+  {
+    "id": "119",
+    "name": "THIRUMAYAM"
+  },
+  {
+    "id": "117",
+    "name": "VIRALIMALAI"
+  },
+  {
+    "id": "125",
+    "name": "MUDUKULATHUR"
+  },
+  {
+    "id": "122",
+    "name": "PARAMAKUDI (SC)"
+  },
+  {
+    "id": "124",
+    "name": "RAMANATHAPURAM"
+  },
+  {
+    "id": "123",
+    "name": "TIRUVADANAI"
+  },
+  {
+    "id": "126",
+    "name": "ARAKKONAM (SC)"
+  },
+  {
+    "id": "129",
+    "name": "ARCOT"
+  },
+  {
+    "id": "128",
+    "name": "RANIPET"
+  },
+  {
+    "id": "127",
+    "name": "SHOLINGHUR"
+  },
+  {
+    "id": "131",
+    "name": "ATTUR (SC)"
+  },
+  {
+    "id": "135",
+    "name": "EDAPPADI"
+  },
+  {
+    "id": "130",
+    "name": "GANGAVALLI (SC)"
+  },
+  {
+    "id": "134",
+    "name": "METTUR"
+  },
+  {
+    "id": "133",
+    "name": "OMALUR"
+  },
+  {
+    "id": "138",
+    "name": "SALEM (NORTH)"
+  },
+  {
+    "id": "139",
+    "name": "SALEM (SOUTH)"
+  },
+  {
+    "id": "137",
+    "name": "SALEM (WEST)"
+  },
+  {
+    "id": "136",
+    "name": "SANKARI"
+  },
+  {
+    "id": "140",
+    "name": "VEERAPANDI"
+  },
+  {
+    "id": "132",
+    "name": "YERCAUD (ST)"
+  },
+  {
+    "id": "142",
+    "name": "KARAIKUDI"
+  },
+  {
+    "id": "145",
+    "name": "MANAMADURAI (SC)"
+  },
+  {
+    "id": "144",
+    "name": "SIVAGANGA"
+  },
+  {
+    "id": "143",
+    "name": "TIRUPPATHUR"
+  },
+  {
+    "id": "146",
+    "name": "ALANGULAM"
+  },
+  {
+    "id": "147",
+    "name": "KADAYANALLUR"
+  },
+  {
+    "id": "148",
+    "name": "SANKARANKOVIL (SC)"
+  },
+  {
+    "id": "149",
+    "name": "TENKASI"
+  },
+  {
+    "id": "150",
+    "name": "VASUDEVANALLUR (SC)"
+  },
+  {
+    "id": "152",
+    "name": "KUMBAKONAM"
+  },
+  {
+    "id": "156",
+    "name": "ORATHANADU"
+  },
+  {
+    "id": "153",
+    "name": "PAPANASAM"
+  },
+  {
+    "id": "157",
+    "name": "PATTUKKOTTAI"
+  },
+  {
+    "id": "158",
+    "name": "PERAVURANI"
+  },
+  {
+    "id": "155",
+    "name": "THANJAVUR"
+  },
+  {
+    "id": "154",
+    "name": "THIRUVAIYARU"
+  },
+  {
+    "id": "151",
+    "name": "THIRUVIDAIMARUDUR (SC)"
+  },
+  {
+    "id": "161",
+    "name": "COONOOR"
+  },
+  {
+    "id": "160",
+    "name": "GUDALUR (SC)"
+  },
+  {
+    "id": "159",
+    "name": "UDHAGAMANDALAM"
+  },
+  {
+    "id": "162",
+    "name": "ANDIPATTI"
+  },
+  {
+    "id": "164",
+    "name": "BODINAYAKKANUR"
+  },
+  {
+    "id": "165",
+    "name": "CUMBUM"
+  },
+  {
+    "id": "163",
+    "name": "PERIYAKULAM (SC)"
+  },
+  {
+    "id": "177",
+    "name": "AMBATTUR"
+  },
+  {
+    "id": "175",
+    "name": "AVADI"
+  },
+  {
+    "id": "170",
+    "name": "GUMMIDIPOONDI"
+  },
+  {
+    "id": "178",
+    "name": "MADHAVARAM"
+  },
+  {
+    "id": "176",
+    "name": "MADHURAVOYAL"
+  },
+  {
+    "id": "171",
+    "name": "PONNERI (SC)"
+  },
+  {
+    "id": "174",
+    "name": "POONAMALLEE (SC)"
+  },
+  {
+    "id": "173",
+    "name": "THIRUVALLUR"
+  },
+  {
+    "id": "179",
+    "name": "THIRUVOTTIYUR"
+  },
+  {
+    "id": "172",
+    "name": "TIRUTTANI"
+  },
+  {
+    "id": "182",
+    "name": "MANNARGUDI"
+  },
+  {
+    "id": "184",
+    "name": "NANNILAM"
+  },
+  {
+    "id": "181",
+    "name": "THIRUTHURAIPOONDI (SC)"
+  },
+  {
+    "id": "183",
+    "name": "THIRUVARUR"
+  },
+  {
+    "id": "190",
+    "name": "KOVILPATTI"
+  },
+  {
+    "id": "189",
+    "name": "OTTAPIDARAM (SC)"
+  },
+  {
+    "id": "188",
+    "name": "SRIVAIKUNTAM"
+  },
+  {
+    "id": "186",
+    "name": "THOOTHUKUDI"
+  },
+  {
+    "id": "187",
+    "name": "TIRUCHENDUR"
+  },
+  {
+    "id": "185",
+    "name": "VILATHIKULAM"
+  },
+  {
+    "id": "196",
+    "name": "LALGUDI"
+  },
+  {
+    "id": "197",
+    "name": "MANACHANALLUR"
+  },
+  {
+    "id": "191",
+    "name": "MANAPPARAI"
+  },
+  {
+    "id": "198",
+    "name": "MUSIRI"
+  },
+  {
+    "id": "192",
+    "name": "SRIRANGAM"
+  },
+  {
+    "id": "195",
+    "name": "THIRUVERUMBUR"
+  },
+  {
+    "id": "199",
+    "name": "THURAIYUR (SC)"
+  },
+  {
+    "id": "194",
+    "name": "TIRUCHIRAPPALLI (EAST)"
+  },
+  {
+    "id": "193",
+    "name": "TIRUCHIRAPPALLI (WEST)"
+  },
+  {
+    "id": "200",
+    "name": "AMBASAMUDRAM"
+  },
+  {
+    "id": "201",
+    "name": "NANGUNERI"
+  },
+  {
+    "id": "202",
+    "name": "PALAYAMKOTTAI"
+  },
+  {
+    "id": "203",
+    "name": "RADHAPURAM"
+  },
+  {
+    "id": "204",
+    "name": "TIRUNELVELI"
+  },
+  {
+    "id": "167",
+    "name": "AMBUR"
+  },
+  {
+    "id": "168",
+    "name": "JOLARPET"
+  },
+  {
+    "id": "169",
+    "name": "TIRUPATTUR"
+  },
+  {
+    "id": "166",
+    "name": "VANIYAMBADI"
+  },
+  {
+    "id": "205",
+    "name": "AVANASHI (SC)"
+  },
+  {
+    "id": "206",
+    "name": "DHARAPURAM (SC)"
+  },
+  {
+    "id": "207",
+    "name": "KANGAYAM"
+  },
+  {
+    "id": "208",
+    "name": "MADATHUKULAM"
+  },
+  {
+    "id": "209",
+    "name": "PALLADAM"
+  },
+  {
+    "id": "210",
+    "name": "TIRUPPUR (NORTH)"
+  },
+  {
+    "id": "211",
+    "name": "TIRUPPUR (SOUTH)"
+  },
+  {
+    "id": "212",
+    "name": "UDUMALAIPETTAI"
+  },
+  {
+    "id": "218",
+    "name": "ARANI"
+  },
+  {
+    "id": "213",
+    "name": "CHENGAM (SC)"
+  },
+  {
+    "id": "219",
+    "name": "CHEYYAR"
+  },
+  {
+    "id": "216",
+    "name": "KALASAPAKKAM"
+  },
+  {
+    "id": "215",
+    "name": "KILPENNATHUR"
+  },
+  {
+    "id": "217",
+    "name": "POLUR"
+  },
+  {
+    "id": "214",
+    "name": "TIRUVANNAMALAI"
+  },
+  {
+    "id": "220",
+    "name": "VANDAVASI (SC)"
+  },
+  {
+    "id": "223",
+    "name": "ANAIKATTU"
+  },
+  {
+    "id": "225",
+    "name": "GUDIYATTAM (SC)"
+  },
+  {
+    "id": "221",
+    "name": "KATPADI"
+  },
+  {
+    "id": "224",
+    "name": "KILVAITHINANKUPPAM (SC)"
+  },
+  {
+    "id": "222",
+    "name": "VELLORE"
+  },
+  {
+    "id": "226",
+    "name": "GINGEE"
+  },
+  {
+    "id": "227",
+    "name": "MAILAM"
+  },
+  {
+    "id": "228",
+    "name": "TINDIVANAM (SC)"
+  },
+  {
+    "id": "232",
+    "name": "TIRUKKOYILUR"
+  },
+  {
+    "id": "229",
+    "name": "VANUR (SC)"
+  },
+  {
+    "id": "231",
+    "name": "VIKRAVANDI"
+  },
+  {
+    "id": "230",
+    "name": "VILLUPURAM"
+  },
+  {
+    "id": "238",
+    "name": "ARUPPUKOTTAI"
+  },
+  {
+    "id": "233",
+    "name": "RAJAPALAYAM"
+  },
+  {
+    "id": "235",
+    "name": "SATTUR"
+  },
+  {
+    "id": "236",
+    "name": "SIVAKASI"
+  },
+  {
+    "id": "234",
+    "name": "SRIVILLIPUTHUR (SC)"
+  },
+  {
+    "id": "239",
+    "name": "TIRUCHULI"
+  },
+  {
+    "id": "237",
+    "name": "VIRUDHUNAGAR"
+  }
+]

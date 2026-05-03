@@ -1,0 +1,63 @@
+[
+  {
+    "id": "3879",
+    "name": "A.MOUNAKUMAR",
+    "party": "Independent",
+    "details": {
+      "age": 26,
+      "education": "Graduate (B.Com from Hindustan Arts And Science College, Coimbatore, 2020)",
+      "self_profession": "Pvt. Job",
+      "spouse_profession": "NIL",
+      "assets": "Rs 3,29,500 (~3 Lacs+)",
+      "liabilities": "Nil"
+    }
+  },
+  {
+    "id": "3880",
+    "name": "KARTHIK R",
+    "party": "AIADMK",
+    "details": {
+      "age": 45,
+      "education": "Post Graduate",
+      "self_profession": "Business",
+      "assets": "Rs 5,42,00,000 (~5 Crores+)",
+      "liabilities": "Rs 12,00,000"
+    }
+  },
+  {
+    "id": "3881",
+    "name": "SENTHILKUMAR N",
+    "party": "DMK",
+    "details": {
+      "age": 52,
+      "education": "Graduate",
+      "self_profession": "Social Service",
+      "assets": "Rs 12,30,00,000 (~12 Crores+)",
+      "liabilities": "Rs 45,00,000"
+    }
+  },
+  {
+    "id": "3882",
+    "name": "RADHAKRISHNAN G",
+    "party": "BJP",
+    "details": {
+      "age": 48,
+      "education": "Graduate Professional",
+      "self_profession": "Advocate",
+      "assets": "Rs 2,15,00,000 (~2 Crores+)",
+      "liabilities": "Nil"
+    }
+  },
+  {
+    "id": "3883",
+    "name": "SURESH S",
+    "party": "NTK",
+    "details": {
+      "age": 35,
+      "education": "12th Pass",
+      "self_profession": "Agriculture",
+      "assets": "Rs 15,00,000 (~15 Lacs+)",
+      "liabilities": "Nil"
+    }
+  }
+]
